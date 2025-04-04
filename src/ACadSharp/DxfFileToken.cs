@@ -134,6 +134,7 @@
 		public const string ObjectBlockFlipAction= "BLOCKFLIPACTION";
 		public const string ObjectTableContent = "TABLECONTENT";
 		public const string ObjectGeoData = "GEODATA";
+		public const string ObjectGroup = "GROUP";
 
 		#endregion
 	}
